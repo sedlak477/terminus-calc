@@ -1,3 +1,9 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+@font-face {
+  font-family: 'OOtt';
+  src: url('/fonts/00tt.ttf') format('truetype');
+}
